@@ -93,7 +93,8 @@ education:
 
         - Bullet point
         - Bullet point
-
+        
+experiences:
 # Your previous job experiences or volunteer
   - role: Full Stack Developer 
     time: 2025 - Present
